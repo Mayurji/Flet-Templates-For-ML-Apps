@@ -34,7 +34,7 @@ Sample Demo:
 
 ### Text-Summarizer
 
-![text summarizer](./images/text-summarizer.jpg)
+<img src="images/text-summarizer.jpg" alt="text summarizer" width="400"/>
 
 Summarization is the task of producing a shorter version of a document while preserving its important information. Some models can extract text from the original input, while other models can generate entirely new text.
 
@@ -44,7 +44,7 @@ Summarization is the task of producing a shorter version of a document while pre
 
 ### OCR(Optical Character Recognition)
 
-![OCR](./images/ocr.jpg)
+<img src="images/ocr.jpg" alt="OCR" width="400"/>
 
 OCR transforms a two-dimensional image of text, which could be machine-printed or handwritten text from its image representation into machine-readable text. OCR is a collection of subprocesses as follows:
 
@@ -64,7 +64,8 @@ OCR transforms a two-dimensional image of text, which could be machine-printed o
 
 ### Image Captioning (Image-To-Text)
 
-![image captioning](./images/imgCap.jpg)
+<img src="images/imgCap.jpg" alt="imageCaptioning" width="400"/>
+
 
 Image-to-text is also called Image Captioning. It is the process of generating a textual description of an image. It uses both Natural Language Processing and Computer Vision to generate the captions.
 
@@ -74,7 +75,7 @@ Image-to-text is also called Image Captioning. It is the process of generating a
 
 ### Keyword/Tag Extractor
 
-![keyword generator](./images/tag%20generator.jpg)
+<img src="images/tag%20generator.jpg" alt="Keyword Generator" width="400"/>
 
 A keyword extractor is a tool that provides a list of keywords from existing text, which can be used as a tag on YouTube or other social platforms.
 
@@ -82,7 +83,7 @@ A keyword extractor is a tool that provides a list of keywords from existing tex
 
 ### NER - Named Entity Extraction
 
-![NER](./images/ner.jpg)
+<img src="images/ner.jpg" alt="Named Entity Recognition" width="400"/>
 
 Named Entity recognition, is a popular method that is used for recognizing entities that are present in a text document. The model can find different entities that are present in the text such as persons, dates, organizations, and locations. In simple words, it is used as an information extraction tool.
 
