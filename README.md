@@ -34,7 +34,7 @@ Sample Demo:
 
 ### Text-Summarizer
 
-<img src="images/text-summarizer.jpg" alt="text summarizer" width="400"/>
+<img src="./images/text-summarizer.jpg" alt="text summarizer" width="400"/>
 
 Summarization is the task of producing a shorter version of a document while preserving its important information. Some models can extract text from the original input, while other models can generate entirely new text.
 
